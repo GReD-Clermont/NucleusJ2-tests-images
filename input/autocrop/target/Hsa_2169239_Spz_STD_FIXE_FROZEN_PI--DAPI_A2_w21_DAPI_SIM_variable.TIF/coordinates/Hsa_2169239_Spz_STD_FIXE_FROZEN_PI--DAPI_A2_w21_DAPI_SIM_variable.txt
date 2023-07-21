@@ -11,7 +11,7 @@
 #channelToComputeThreshold: 0
 #maxVolumeNucleus:2147483647
 #minVolumeNucleus: 1
-#Image: E:\Sami\Nucleus2.0\NucleusJ\test-images\input\autocrop\Hsa_2169239_Spz_STD_FIXE_FROZEN_PI--DAPI_A2_w21_DAPI_SIM_variable.TIF
+#Image: test-images\input\autocrop\Hsa_2169239_Spz_STD_FIXE_FROZEN_PI--DAPI_A2_w21_DAPI_SIM_variable.TIF
 #OTSU threshold: 84
 #Slice used for OTSU threshold: default
 FileName	ChannelNumber	CropNumber	XStart	YStart	ZStart	width	height	depth
