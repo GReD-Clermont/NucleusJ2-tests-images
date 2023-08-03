@@ -12,4 +12,4 @@
 #maxVolumeNucleus:2147483647
 #minVolumeNucleus: 1
 FileName	NumberOfCrop	OTSUThreshold	DefaultOTSUThreshold
-E:\Sami\Nucleus2.0\NucleusJ\test-images\input\autocrop\Hsa_2169239_Spz_STD_FIXE_FROZEN_PI--DAPI_A2_w21_DAPI_SIM_variable.TIF	2	84	false
+test-images\input\autocrop\Hsa_2169239_Spz_STD_FIXE_FROZEN_PI--DAPI_A2_w21_DAPI_SIM_variable.TIF	2	84	false
