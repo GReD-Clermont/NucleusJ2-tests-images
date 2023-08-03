@@ -1,0 +1,19 @@
+#Header 
+#Star time analyse: 2023-07-21:15-10-00
+#Input folder: test-images\input\autocrop
+#Output folder: test-images/output/autocrop/Hsa_2169239_Spz_STD_FIXE_FROZEN_PI--DAPI_A2_w21_DAPI_SIM_variable.TIF\
+#Calibration:x:default-y:default-z:default
+#X box size: 40
+#Y box size: 40
+#Z box size: 20
+#thresholdOTSUComputing: 20
+#slicesOTSUComputing: 0
+#channelToComputeThreshold: 0
+#maxVolumeNucleus:2147483647
+#minVolumeNucleus: 1
+#Image: E:\Sami\Nucleus2.0\NucleusJ\test-images\input\autocrop\Hsa_2169239_Spz_STD_FIXE_FROZEN_PI--DAPI_A2_w21_DAPI_SIM_variable.TIF
+#OTSU threshold: 84
+#Slice used for OTSU threshold: default
+FileName	ChannelNumber	CropNumber	XStart	YStart	ZStart	width	height	depth
+test-images/output/autocrop/Hsa_2169239_Spz_STD_FIXE_FROZEN_PI--DAPI_A2_w21_DAPI_SIM_variable.TIF\nuclei\\Hsa_2169239_Spz_STD_FIXE_FROZEN_PI--DAPI_A2_w21_DAPI_SIM_variable_00_C0.tif	0	0	160	113	18	112	128	53
+test-images/output/autocrop/Hsa_2169239_Spz_STD_FIXE_FROZEN_PI--DAPI_A2_w21_DAPI_SIM_variable.TIF\nuclei\\Hsa_2169239_Spz_STD_FIXE_FROZEN_PI--DAPI_A2_w21_DAPI_SIM_variable_01_C0.tif	0	1	40	85	20	131	131	53
