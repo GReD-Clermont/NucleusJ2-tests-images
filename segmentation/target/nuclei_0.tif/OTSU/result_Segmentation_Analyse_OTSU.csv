@@ -1,0 +1,10 @@
+#Header 
+#Star time analyse: 2023-08-02:16-21-50
+#Input folder: test-images2\segmentation\input
+#Output folder: test-images2/segmentation/output/nuclei_0.tif\
+#Calibration:x:default-y:default-z:default
+#maxVolumeNucleus:3000000
+#minVolumeNucleus: 1
+#ConvexHullDetection (GRAHAM): true
+Image,Dataset,ImageName,Volume,Moment 1,Moment 2,Moment 3,Flatness,Elongation,Esr,SurfaceArea,Sphericity,MeanIntensityNucleus,MeanIntensityBackground,StandardDeviation,MinIntensity,MaxIntensity,MedianIntensityImage,MedianIntensityNucleus,MedianIntensityBackground,ImageSize,OTSUThreshold,
+nuclei_0.tif,60.883021366912345,0.6655667602062556,1.34970442379249,2.1680512777656338,1.4240443778543783,1.2674050673602681,2.440445962412768,77.20672065689658,0.9109183434346608,3872.292012175921,311.90811354115164,0.35957690650189217,202.0,14149.0,296.0,3284.0,69.0,1011555,	22
